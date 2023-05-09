@@ -61,7 +61,7 @@ print("*       *")
 print("--------")
 
 #-----------------
-#DOS TRIANGULOS JUNTOS OPUESTOS
+#DOS TRIANGULOS JUNTOS
 print("*            *")
 print("**          **")
 print("***        ***")
@@ -72,8 +72,7 @@ print("**************")
 print("---------")
 
 #-----------------
-#UN TRIANGULO CENTRADO DE 11 NIVELES ECHO POR * Y PRINT
-#UN TRIANGULO CENTRADO DE 11 NIVELES ECHO POR * Y PRINT
+#UN ARBOL
 print("           *")
 print("          ***")
 print("         *****")
